@@ -1,3 +1,4 @@
+This project is a simple FIFO (First In, First Out) page replacement simulator built using React. It helps visualize how the FIFO page replacement algorithm works.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
